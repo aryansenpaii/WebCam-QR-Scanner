@@ -1,0 +1,7 @@
+HEllo guys,
+This project was created by Aryan .
+
+HOW TO USE:
+1- Make sure you have atleast one camera installed in your computer. Otherwise, it'll give you error.
+2- You can also connect external camera, just specify the camera number in  'VideoCapture(0)', 0: First camera/default camera
+3- The code is really easy to understand and edit so you can use this code in creating a attendance system too.
